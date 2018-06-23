@@ -1,6 +1,7 @@
 * {
   box-sizing: border-box;
-  font-family: sans-serif;
+  font-family: 'IM Fell Great Primer SC', serif;
+  color: white;
 }
 
 html, body, #root {
