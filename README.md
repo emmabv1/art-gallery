@@ -1,4 +1,4 @@
-#Art Gallery Memory Game
+# Art Gallery Memory Game
 
 ## How to play:
 
