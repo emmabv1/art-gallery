@@ -1,3 +1,14 @@
+#Art Gallery Memory Game
+
+## How to play:
+
+* The goal is to find matching pairs of cards.
+* Turn over any two cards. If they match, they will stay visible. If they don't, they will flip back.
+* Remember what was on each card and where it was.
+* The game will restart with the cards reshuffled once all pairs have been found.
+
+### Featuring: Some of my favorite pieces of art.
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
