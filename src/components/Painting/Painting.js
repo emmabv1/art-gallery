@@ -6,7 +6,7 @@ class  Painting extends Component {
   render() {
     let flippy = this.props.index;
     let front = this.props.image;
-    let back = "https://cdn.pixabay.com/photo/2016/06/27/14/57/palette-1482678_1280.png";
+    let back = "https://purepng.com/public/uploads/large/purepng.com-paint-paletteobjectpaintpaintingbrushcolorpaletteobjectspaint-palette-6315223254414bcq8.png";
     return(
       <div className="card">
       <div className="img-container" onClick={()=>{this.props.game(flippy)}}>
